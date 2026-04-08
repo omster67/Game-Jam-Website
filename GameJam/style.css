@@ -1,0 +1,18 @@
+h1{
+    background-color: tan;
+    text-align: center;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  background-color: black;
+}
+
+ul li a{
+    display: block;
+    color: red;
+    padding: 10px;
+    text-decoration: none; 
+}
